@@ -1,0 +1,7 @@
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\obj\Debug\Conversor_complet.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\obj\Debug\Conversor_complet.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\bin\Debug\Conversor_complet.exe.config
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\bin\Debug\Conversor_complet.exe
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\bin\Debug\Conversor_complet.pdb
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\obj\Debug\Conversor_complet.exe
+C:\xampp\htdocs\C#\Curso_Csharp\Conversor_complet\obj\Debug\Conversor_complet.pdb
